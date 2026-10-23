@@ -1,0 +1,23 @@
+{
+  "code": "YU",
+  "title": "SMASH YU",
+  "school": "영남대",
+  "fullName": "영남대학교",
+  "campusName": "영남대학교 경산캠퍼스",
+  "tagline": "영남대를 부셔 (시험기간 스트레스 해소)",
+  "description": "영남대학교 경산캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 영남대학교 경산캠퍼스 3D 화면과 SMASH YU 제목",
+  "url": "https://hong-iron.github.io/SMASH-YU/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 152997010
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+}

@@ -1,0 +1,7 @@
+raw/
+.DS_Store
+__pycache__/
+.done
+.failed
+.deployed
+.stats.json
