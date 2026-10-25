@@ -5,3 +5,5 @@ __pycache__/
 .failed
 .deployed
 .stats.json
+.env
+data/floors.json
