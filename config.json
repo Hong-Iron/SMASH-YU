@@ -20,5 +20,56 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "천마아트센터": {
+      "style": "glass",
+      "wall": "#c9ced0",
+      "glass": "#7f8f93",
+      "frame": "#e6eaec"
+    },
+    "상경관": {
+      "style": "brick",
+      "wall": "#8c5a52",
+      "glass": "#2f4a4c",
+      "frame": "#6f8e86"
+    },
+    "노천강당": {
+      "style": "concrete",
+      "wall": "#d2cec6",
+      "glass": "#34507e",
+      "frame": "#a5a7aa"
+    },
+    "중앙도서관": {
+      "style": "ribbon",
+      "wall": "#5d6f8c",
+      "glass": "#1f3350",
+      "frame": "#9aa6b6"
+    },
+    "160.자동차관": {
+      "style": "concrete",
+      "wall": "#8fa3b4",
+      "glass": "#2c435a",
+      "frame": "#c8d0d6"
+    },
+    "과학도서관": {
+      "style": "ribbon",
+      "wall": "#c4c6c4",
+      "glass": "#1f2428",
+      "frame": "#8a8f92"
+    },
+    "외국어교육원": {
+      "style": "ribbon",
+      "wall": "#eef1f0",
+      "glass": "#3e4c4a",
+      "frame": "#b8bec0"
+    },
+    "전기관": {
+      "style": "stone",
+      "wall": "#e2e6e0",
+      "glass": "#2d3a3a",
+      "frame": "#7f8c96"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
