@@ -1,0 +1,34 @@
+{
+ "region": "경북 경산시 대동",
+ "nameEn": "Yeungnam University",
+ "added": "2026-10-24",
+ "rank": 7,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DHU",
+   "campus": "대구한의대학교 삼성캠퍼스",
+   "km": 3.9
+  },
+  {
+   "code": "DAEKYEUNG",
+   "campus": "대경대학교",
+   "km": 5.8
+  },
+  {
+   "code": "KIU",
+   "campus": "경일대학교",
+   "km": 9.6
+  },
+  {
+   "code": "DCU",
+   "campus": "대구가톨릭대학교 효성캠퍼스",
+   "km": 10.2
+  },
+  {
+   "code": "SUSEONG",
+   "campus": "수성대학교",
+   "km": 10.5
+  }
+ ]
+}
